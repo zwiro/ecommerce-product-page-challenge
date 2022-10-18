@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/ecommerce-product-page-challenge-xG7wPpH-kv)
+- Live Site URL: [Live Site](https://zwiro.github.io/ecommerce-product-page-challenge/)
 
 ## My process
 
