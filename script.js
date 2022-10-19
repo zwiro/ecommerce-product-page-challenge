@@ -222,3 +222,12 @@ nextPicBtn.addEventListener('click', () => {
         mainPic.src = 'images/image-product-4.jpg';
     } else mainPic.src = 'images/image-product-1.jpg';
 });
+
+checkoutBtn.addEventListener('click', () => {
+    emptyCardMsg.classList.add('empty-cart');
+    cartContent.classList.add('hidden');
+    checkoutBtn.classList.add('hidden');
+    emptyCardMsg.classList.remove('hidden');
+    notificationNum.classList.add('hidden');
+    cartQty.innerText = 0
+})

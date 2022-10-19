@@ -343,8 +343,9 @@ button img {
     background-color: var(--primary-clr-1);
     height: 1rem;
     width: 1rem;
-    top: 0.25rem;
-    right: 6.5rem;
+
+    top: -0.5rem;
+    right: 3rem;
     border-radius: 0.28rem;
     text-align: center;
     color: white;
@@ -578,6 +579,11 @@ button img {
 
     .expanded-menu {
         display: none;
+    }
+
+    #notification-number {
+        top: 0.25rem;
+        right: 6.5rem;
     }
 
     @media (max-width: 1300px) {
